@@ -9,9 +9,10 @@
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.3D模型图打开软件FreeCAD
+软件下载地址：https://github.com/realthunder/FreeCAD_assembly3/releases/tag/0.11
+软件教学视频：https://www.bilibili.com/video/BV1yK4y1Q7CU?p=2&spm_id_from=pageDriver
+2.程序打开软件stm32cubeide
 
 #### 使用说明
 
