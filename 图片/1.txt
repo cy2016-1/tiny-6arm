@@ -15,3 +15,8 @@ def main(){
 
     def status_value = device_status == 1 ? "NORMAL" : "STOP"
     modelRepo.with("device").update(values.id, ["device_status": status_value]) 
+
+    mqtt ip：124.71.169.30
+    虚拟机ip：192.168.64.5
+    虚拟机内数据库ip:192.168.100.5
+    plc ip：192.168.3.11
